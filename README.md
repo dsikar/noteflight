@@ -14,4 +14,3 @@ ctrl + up down arrows - transpose note(s) one octave
 shift + up down arrow - transpose note(s) one semitone  
 space - replace current note with rest  
 
-# 2020.07.27 Added Songbird xml and pdf
